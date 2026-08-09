@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+
+# Large dataset files
+data/
+
+# Model weights (large binaries)
+results/*.pt
+spatial_heatmap.png
+
+# Large generated plots
+results/spatial_heatmap.png
+
+# LaTeX report directory
+report/
+
+# Screenshots
+Screenshot*.png

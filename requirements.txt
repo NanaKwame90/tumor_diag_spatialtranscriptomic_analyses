@@ -1,0 +1,15 @@
+# Spatial transcriptomics + single-cell analysis
+scanpy
+squidpy
+
+# Deep learning
+torch
+torch_geometric
+
+# Scientific computing
+scipy
+numpy
+pandas
+scikit-learn
+matplotlib
+
