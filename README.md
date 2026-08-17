@@ -101,4 +101,4 @@ A 50×50% spatial crop yields **N = 862 spots**, **F = 1,500 highly variable gen
 and **M = 4,310 undirected 5-NN edges**.
 
 ## Acknowledgements
-AI assistants (Claude, Gemini) were utilized for code refactoring, environment configuration, and boilerplate generation. Model architectures, experimental logic, and evaluation analyses were authored and validated by the repository owner.
+AI assistants (Claude and Gemini) were utilized for code refactoring, environment configuration, and boilerplate generation. Model architectures, experimental logic, and evaluation analyses were authored and validated by the repository owner.
