@@ -99,3 +99,6 @@ cat results/comparison.csv
 10x Visium Mouse Brain H&E, loaded via [Squidpy](https://squidpy.readthedocs.io).
 A 50×50% spatial crop yields **N = 862 spots**, **F = 1,500 highly variable genes**,
 and **M = 4,310 undirected 5-NN edges**.
+
+## Acknowledgements
+AI assistants (Claude, Gemini) were utilized for code refactoring, environment configuration, and boilerplate generation. Model architectures, experimental logic, and evaluation analyses were authored and validated by the repository owner.
